@@ -1,2 +1,5 @@
-fastapi
-uvicorn
+fastapi==0.111.0
+uvicorn==0.29.0
+pydantic==2.7.1
+python-multipart==0.0.9
+twilio==9.1.0
